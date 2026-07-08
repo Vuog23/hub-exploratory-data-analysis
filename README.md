@@ -2,6 +2,28 @@
 
 <div align="center">
 
+# HUB Data Analysis
+
+### From raw data to practical insight
+
+A collection of Python projects from Ho Chi Minh City University of Banking,
+exploring financial markets, people, retail performance, and consumer behavior.
+
+<br>
+
+![Python](https://img.shields.io/badge/PYTHON-3.10+-3776AB?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/JUPYTER-NOTEBOOK-F37626?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/PANDAS-DATA_ANALYSIS-150458?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-MACHINE_LEARNING-F7931E?style=for-the-badge)
+
+<br><br>
+
+[Explore the notebooks](#about-the-project) &nbsp;&middot;&nbsp;
+[Get started](#getting-started) &nbsp;&middot;&nbsp;
+[Report an issue](https://github.com/Vuog23/hub-data-analysis/issues)
+
+</div>
+
 <br>
 
 <details>
@@ -12,7 +34,6 @@
     <li><a href="#technology-stack">Technology Stack</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
